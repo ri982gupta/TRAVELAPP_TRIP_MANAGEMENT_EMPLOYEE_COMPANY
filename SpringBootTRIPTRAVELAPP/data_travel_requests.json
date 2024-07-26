@@ -1,0 +1,53 @@
+[ {
+  "id" : 1,
+  "dateOfTravel" : "2024-04-05",
+  "travelFor" : "Business",
+  "project" : "Project X",
+  "businessUnit" : "Sales",
+  "organisation" : "ABC Corp",
+  "trip" : "Conference",
+  "tripDescription" : "Attending annual sales conference.",
+  "location" : "New York",
+  "applyFor" : "John Doe",
+  "other" : "Any other relevant information",
+  "foreignExchange" : "USD"
+}, {
+  "id" : 2,
+  "dateOfTravel" : "2024-04-05",
+  "travelFor" : "Business",
+  "project" : "Project X",
+  "businessUnit" : "Sales",
+  "organisation" : "ABC Corp",
+  "trip" : "Conference",
+  "tripDescription" : "Attending annual sales conference.",
+  "location" : "New York",
+  "applyFor" : "John Doe",
+  "other" : "Any other relevant information",
+  "foreignExchange" : "USD"
+},{
+  "id" : 3,
+  "dateOfTravel" : "2024-04-05",
+  "travelFor" : "Business",
+  "project" : "Project X",
+  "businessUnit" : "Sales",
+  "organisation" : "ABC Corp",
+  "trip" : "Conference",
+  "tripDescription" : "Attending annual sales conference.",
+  "location" : "New York",
+  "applyFor" : "John Doe",
+  "other" : "Any other relevant information",
+  "foreignExchange" : "USD"
+}, {
+  "id" : 4,
+  "dateOfTravel" : "2024-04-05",
+  "travelFor" : "Business",
+  "project" : "Project X",
+  "businessUnit" : "Sales",
+  "organisation" : "ABC Corp",
+  "trip" : "Conference",
+  "tripDescription" : "Attending annual sales conference.",
+  "location" : "New York",
+  "applyFor" : "John Doe",
+  "other" : "Any other relevant information",
+  "foreignExchange" : "USD"
+} ]

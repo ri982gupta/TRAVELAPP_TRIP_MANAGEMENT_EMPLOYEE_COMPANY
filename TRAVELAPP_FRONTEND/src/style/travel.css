@@ -1,0 +1,36 @@
+.Traveloptionway {
+  flex-direction: row;
+  margin: 10px;
+}
+.col-1 p-0 {
+  text-align: center;
+  font-weight: 500;
+}
+
+input[type="radio"] {
+  margin-right: 5px; 
+}
+
+.onewayspan {
+  margin: 5px;
+  font-weight: 500;
+}
+.travelinput {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.initialattributes {
+  padding-bottom: 18px;
+}
+
+.Travel input[type="text"],
+.Travel input[type="date"],
+.Travel option select {
+  width: 70%;
+  height: 30px;
+  padding: 8px;
+  margin: 4px 0;
+  box-sizing: border-box;
+}

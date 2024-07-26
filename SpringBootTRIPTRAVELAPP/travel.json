@@ -1,0 +1,55 @@
+[ {
+  "id" : 1,
+  "type" : "Flight",
+  "from" : "New York",
+  "to" : "London",
+  "departure" : "2024-04-05",
+  "checkIn" : "2024-04-04",
+  "checkOut" : "2024-04-07",
+  "location" : "Hotel XYZ"
+}, {
+  "id" : 2,
+  "type" : "Flight",
+  "from" : "New York",
+  "to" : "London",
+  "departure" : "2024-04-05",
+  "checkIn" : "2024-04-04",
+  "checkOut" : "2024-04-07",
+  "location" : "Hotel XYZ"
+}, {
+  "id" : 4,
+  "type" : "Flight",
+  "from" : "New York",
+  "to" : "London",
+  "departure" : "2024-04-05",
+  "checkIn" : "2024-04-04",
+  "checkOut" : "2024-04-07",
+  "location" : "Hotel XYZ"
+}, {
+  "id" : 3,
+  "type" : "Flight",
+  "from" : "New York",
+  "to" : "London",
+  "departure" : "2024-04-05",
+  "checkIn" : "2024-04-04",
+  "checkOut" : "2024-04-07",
+  "location" : "Hotel XYZ"
+}, {
+  "id" : null,
+  "type" : null,
+  "from" : null,
+  "to" : null,
+  "departure" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "location" : ""
+}, {
+  "id" : null,
+  "type" : null,
+  "from" : null,
+  "to" : null,
+  "departure" : null,
+  "checkIn" : null,
+  "checkOut" : null,
+  "location" : ""
+} ]

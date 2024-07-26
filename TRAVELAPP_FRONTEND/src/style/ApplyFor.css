@@ -1,0 +1,18 @@
+.Applyfor {
+  margin-top: 0%;
+}
+
+.Applyfor-upper-container {
+  margin-top: 0px;
+  background-color: rgb(215, 228, 238);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+}
+.Applyfor-input {
+  margin-top: 15px;
+  margin-right: 10px;
+}

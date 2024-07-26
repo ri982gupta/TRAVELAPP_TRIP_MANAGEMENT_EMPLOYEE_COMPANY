@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;databaseName=companyDatabase
+    username: RiGupta
+    password: AGRGpro0987!
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    database-platform: org.hibernate.dialect.SQLServerDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  springfox:
+    documentation:
+      swagger-ui:
+        enabled: true
+    swagger-ui:
+      enabled: true
+server:
+  port: 9012

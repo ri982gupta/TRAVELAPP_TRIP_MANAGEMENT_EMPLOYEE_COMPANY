@@ -1,0 +1,22 @@
+.TravelandAccommodationattributes {
+  display: flex;
+  flex-direction: row;
+}
+
+.TravelandAccommodationcontainer {
+  background-color: rgb(215, 228, 238);
+}
+
+.TravelandAccommodationcontainer input[type="text"],
+.TravelandAccommodationcontainer input[type="date"],
+.TravelandAccommodationcontainer option select {
+  width: 140%;
+  height: 30px;
+}
+
+.TravelandAccommodationinput {
+  display: flex;
+
+  margin-right: 20px;
+  padding-right: 30px;
+}

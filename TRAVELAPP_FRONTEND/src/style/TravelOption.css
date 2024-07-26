@@ -1,0 +1,13 @@
+input[type="radio"] {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.Traveloption label {
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.Traveloption {
+  margin-top: 20px;
+}

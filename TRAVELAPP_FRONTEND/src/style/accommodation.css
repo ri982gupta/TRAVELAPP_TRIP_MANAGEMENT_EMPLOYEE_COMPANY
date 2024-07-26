@@ -1,0 +1,27 @@
+.accommodationinput {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Accommodationinitialattributes {
+  padding-bottom: 18px;
+}
+h2 {
+  padding-bottom: 10px;
+}
+
+.accommodationcontainer {
+  background-color: rgb(215, 228, 238);
+}
+
+.accommodationcontainer input[type="text"],
+.accommodationcontainer input[type="date"],
+.accommodationcontainer option select {
+  width: 70%;
+  height: 30px;
+  padding: 8px;
+  margin: 4px 0;
+  box-sizing: border-box;
+}

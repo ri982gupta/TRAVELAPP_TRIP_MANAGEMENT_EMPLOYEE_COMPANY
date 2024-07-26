@@ -1,0 +1,7 @@
+.ApplyNav a:hover {
+  background-color: rgb(123, 189, 228);
+}
+
+.ApplyNav a:active {
+  background-color: rgb(135, 255, 105);
+}

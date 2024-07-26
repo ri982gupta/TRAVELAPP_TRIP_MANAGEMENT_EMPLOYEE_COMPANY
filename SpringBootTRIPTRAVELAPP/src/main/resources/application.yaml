@@ -1,0 +1,104 @@
+#spring.application.name=SpringBootTRIPTRAVELAPP
+
+
+### Database connection properties
+#spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=ApiTRIPTRAVEL
+##spring.datasource.username=your_username
+##spring.datasource.password=your_password
+#spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
+##
+### Hibernate properties
+#spring.jpa.hibernate.ddl-auto=update
+#spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.SQLServerDialect
+#
+#spring.jpa.show-sql=true
+#
+## Server Port
+#server.port=9004
+#
+
+#---------------------before mail-----------------------------
+#spring:
+#  datasource:
+#    url: jdbc:sqlserver://localhost:1433;databaseName=ApiTRIPTRAVEL;instanceName=sqlexpress;encrypt=true;trustServerCertificate=true;
+##    username: RiGupta
+##    password: AGRGpro0987!
+#    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+#  jpa:
+#    database-platform: org.hibernate.dialect.SQLServerDialect
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+##  springfox:
+##    documentation:
+##      swagger-ui:
+##        enabled: true
+##    swagger-ui:
+##      enabled: true
+#     
+#server:
+#  port: 9004
+#  
+#  
+  
+  
+#-------------------------after mail----------------
+
+
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;databaseName=ApiTRIPTRAVEL;instanceName=sqlexpress;encrypt=true;trustServerCertificate=true;
+#    username: RiGupta
+#    password: AGRGpro0987!
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    database-platform: org.hibernate.dialect.SQLServerDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: richa121angel@gmail.com
+    password: nwck ybdm bwiq bcgo
+#    protocol: smtp
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+server:
+  port: 9004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

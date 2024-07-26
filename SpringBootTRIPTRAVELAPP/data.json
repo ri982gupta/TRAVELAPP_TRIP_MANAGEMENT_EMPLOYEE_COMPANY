@@ -1,0 +1,471 @@
+[ {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "hyd",
+  "from" : "pune",
+  "to" : "hyd",
+  "checkIn" : "01-01-2024",
+  "checkOut" : "02-03-2024",
+  "departure" : "02-03-2024",
+  "travelId" : 5598
+}, {
+  "id" : 2,
+  "type" : "Travel",
+  "location" : "hyd",
+  "from" : "pune",
+  "to" : "hyd",
+  "checkIn" : "01-01-2024",
+  "checkOut" : "02-03-2024",
+  "departure" : "02-03-2024",
+  "travelId" : 5598
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "rjyj",
+  "from" : "dhgd",
+  "to" : "ghfjhyfk",
+  "checkIn" : "yrj",
+  "checkOut" : "ryj",
+  "departure" : "2024-04-13",
+  "travelId" : 5596
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "ryj",
+  "from" : "dhgd",
+  "to" : "ghfjhyfk",
+  "checkIn" : "ryj",
+  "checkOut" : "rjy",
+  "departure" : "2024-04-13",
+  "travelId" : 5590
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "rjy",
+  "from" : "fhjfukgl",
+  "to" : "gdjhfulgl",
+  "checkIn" : "ryj",
+  "checkOut" : "ryj",
+  "departure" : "2024-04-13",
+  "travelId" : 6666
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "yrj",
+  "from" : "fhjfukgl",
+  "to" : "gdjhfulgl",
+  "checkIn" : "ryj",
+  "checkOut" : "ryj",
+  "departure" : "2024-04-13",
+  "travelId" : 7777
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "yjr",
+  "from" : "hyd",
+  "to" : "pune",
+  "checkIn" : "yjr",
+  "checkOut" : "yj",
+  "departure" : "2024-04-09",
+  "travelId" : 5555
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "ryj",
+  "from" : "hyd",
+  "to" : "pune",
+  "checkIn" : "yrj",
+  "checkOut" : "yrj",
+  "departure" : "2024-04-09",
+  "travelId" : 1001
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "y",
+  "from" : "hyd",
+  "to" : "pune",
+  "checkIn" : "yrj",
+  "checkOut" : "yrj",
+  "departure" : "2024-04-10",
+  "travelId" : 8888
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "dht",
+  "from" : "hyd",
+  "to" : "pune",
+  "checkIn" : "gdfyj",
+  "checkOut" : "hfk",
+  "departure" : "2024-04-10",
+  "travelId" : 1101
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "fyh",
+  "from" : "hyd",
+  "to" : "pune",
+  "checkIn" : "y4h5",
+  "checkOut" : " 54y",
+  "departure" : "2024-04-10",
+  "travelId" : 1111
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "dotnet",
+  "to" : "react",
+  "checkIn" : "bh",
+  "checkOut" : "hcdb",
+  "departure" : "2024-06-03",
+  "travelId" : 7891
+}, {
+  "id" : 2,
+  "type" : "Travel",
+  "location" : "hn",
+  "from" : "up",
+  "to" : "hyd",
+  "checkIn" : "nt",
+  "checkOut" : "nth",
+  "departure" : "2024-04-18",
+  "travelId" : 7891
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "ntr",
+  "from" : "hyd",
+  "to" : "mp",
+  "checkIn" : "cnth",
+  "checkOut" : "cneth",
+  "departure" : "2024-04-18",
+  "travelId" : 8968
+}, {
+  "id" : 2,
+  "type" : "Travel",
+  "location" : "hnre",
+  "from" : "mp",
+  "to" : "up",
+  "checkIn" : "te",
+  "checkOut" : "etn",
+  "departure" : "2024-04-19",
+  "travelId" : 8968
+}, {
+  "id" : 3,
+  "type" : "Travel",
+  "location" : "etcn",
+  "from" : "up",
+  "to" : "delhi",
+  "checkIn" : "etn",
+  "checkOut" : "ect",
+  "departure" : "2024-04-20",
+  "travelId" : 8968
+}, {
+  "id" : 4,
+  "type" : "Travel",
+  "location" : "cebnt",
+  "from" : "delhi",
+  "to" : "pune",
+  "checkIn" : "ecbnh",
+  "checkOut" : "cten",
+  "departure" : "2024-04-21",
+  "travelId" : 8968
+}, {
+  "id" : 5,
+  "type" : "Travel",
+  "location" : "etc",
+  "from" : "pune",
+  "to" : "hyd",
+  "checkIn" : "ect",
+  "checkOut" : "cte",
+  "departure" : "2024-04-22",
+  "travelId" : 6589
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "pune",
+  "to" : "hyd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-22",
+  "travelId" : 1122
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "mp",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-25",
+  "travelId" : 1101
+}, {
+  "id" : 2,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "mp",
+  "to" : "hyd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-26",
+  "travelId" : 1111
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "mp",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-05",
+  "travelId" : 789
+}, {
+  "id" : 4,
+  "type" : "Travel",
+  "location" : "hyd",
+  "from" : "pune",
+  "to" : "hyd",
+  "checkIn" : "01-01-2024",
+  "checkOut" : "02-03-2024",
+  "departure" : "02-03-2024",
+  "travelId" : 6589
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "himachal pradesh",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-21",
+  "travelId" : 1122
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "himachal pradesh",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-22",
+  "travelId" : 1123
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "himachal pradesh",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-23",
+  "travelId" : 1124
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "himachal pradesh",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-23",
+  "travelId" : 1125
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "himachal pradesh",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-23",
+  "travelId" : 1126
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "himachal pradesh",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-23",
+  "travelId" : 1127
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "fhd",
+  "to" : "hd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-29",
+  "travelId" : 9090
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "fhd",
+  "to" : "hd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-29",
+  "travelId" : 4567
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "fhd",
+  "to" : "hd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "",
+  "travelId" : 4536
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "uk",
+  "to" : "tuk",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-27",
+  "travelId" : 8769
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "yj",
+  "to" : "utkl",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-05",
+  "travelId" : 4661
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "etj",
+  "to" : "jte",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-04",
+  "travelId" : 6769
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "ryj",
+  "to" : "rjy",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-26",
+  "travelId" : 8698
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hdd",
+  "to" : "hyd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-27",
+  "travelId" : 43534
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "delhi",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-06-03",
+  "travelId" : 3333
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "abc",
+  "to" : "efd",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-07-18",
+  "travelId" : 3984
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyderabad",
+  "to" : "patna",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-04-29",
+  "travelId" : 1557
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "up",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-04",
+  "travelId" : 466
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "llll",
+  "to" : "gbdb",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-05",
+  "travelId" : 3725
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "paris",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-23",
+  "travelId" : 3392
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "nbv",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-10",
+  "travelId" : 8847
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "poiu",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-24",
+  "travelId" : 1850
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "uytr",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-25",
+  "travelId" : 1016
+}, {
+  "id" : 1,
+  "type" : "Travel",
+  "location" : "",
+  "from" : "hyd",
+  "to" : "oiu",
+  "checkIn" : "",
+  "checkOut" : "",
+  "departure" : "2024-05-12",
+  "travelId" : 9022
+} ]
